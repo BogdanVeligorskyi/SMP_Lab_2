@@ -1,0 +1,6 @@
+// .env - для Dotenv
+// Велігорський Б. О., КІ-191
+NAME = "Bogdan"
+SURNAME = "Veligorskyi"
+AGE = 21
+GROUP = "KI-191"
