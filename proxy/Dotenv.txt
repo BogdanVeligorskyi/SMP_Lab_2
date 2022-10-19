@@ -1,0 +1,5 @@
+// .env - для Dotenv
+// Велігорський Б. О., КІ-191
+
+URL = "http://localhost:3000"
+PROXY_PORT = "3001"
